@@ -2,7 +2,7 @@
 
 Staff & Applied AI Engineer based in Helsinki, Finland. I build the infrastructure layer that SaaS products run on: multi-tenant control planes, event-driven backends, and data pipelines that connect systems at scale.
 
-Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to senior IC roles
+Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to **Staff Engineer**, **Applied AI Engineer**, and **Engineering Lead** roles
 
 &nbsp;
 
@@ -33,9 +33,14 @@ Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to seni
 
 ### Speaking
 
-<img src="europython-talk.jpg" alt="Speaking at EuroPython Kraków 2026" width="600"/>
+<table>
+  <tr>
+    <td><img src="europython-talk.jpg" alt="Speaking at EuroPython 2026" width="420"/></td>
+    <td><img src="europython-talk-2.jpg" alt="EuroPython 2026 Kraków" width="420"/></td>
+  </tr>
+</table>
 
-*EuroPython 2026, Kraków*
+*EuroPython 2026, Kraków &amp; Remote — 25th Anniversary*
 
 &nbsp;
 
