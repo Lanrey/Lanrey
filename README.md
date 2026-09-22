@@ -6,6 +6,14 @@ Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to **St
 
 &nbsp;
 
+### Focus areas
+
+- **Platform engineering** — multi-tenant control planes, credential management, OAuth 2.0 flows, API lifecycle
+- **Applied AI** — self-configuring data pipelines, LLM-backed automation, agent infrastructure, connector tooling
+- **Distributed systems** — event-driven backends, async task pipelines, real-time state delivery over SSE
+
+&nbsp;
+
 ### What I build
 
 | Project | What it does |
