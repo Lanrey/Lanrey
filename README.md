@@ -1,6 +1,6 @@
 ## Olusola Akinsulere
 
-Staff & Applied AI Engineer based in Helsinki, Finland. I build the infrastructure layer that SaaS products run on — multi-tenant control planes, event-driven backends, and data pipelines that connect systems at scale.
+Staff & Applied AI Engineer based in Helsinki, Finland. I build the infrastructure layer that SaaS products run on: multi-tenant control planes, event-driven backends, and data pipelines that connect systems at scale.
 
 Currently at **[Retailloop](https://retailloop.fi)** &nbsp;·&nbsp; Open to senior IC roles
 
@@ -10,11 +10,11 @@ Currently at **[Retailloop](https://retailloop.fi)** &nbsp;·&nbsp; Open to seni
 
 | Project | What it does |
 |---|---|
-| [saas-platform-control-plane](https://github.com/Lanrey/saas-platform-control-plane) | Multi-tenant control plane — org management, API key lifecycle, OAuth 2.0 (Authorization Code + Client Credentials), RS256 JWTs. NestJS + Fastify + PostgreSQL |
-| [api-connector-sync-pipeline](https://github.com/Lanrey/api-connector-sync-pipeline) | Self-configuring Python connectors that discover APIs, handle auth, and sync data reliably — zero manual wiring |
-| [realtime-incident-management-api](https://github.com/Lanrey/realtime-incident-management-api) | Event-driven incident management — real-time state push via Server-Sent Events, clean domain model, zero polling |
-| [realtime-compliance-aggregator](https://github.com/Lanrey/realtime-compliance-aggregator) | Elixir listener that aggregates compliance rules across sources and emits structured conflict events in real time |
-| [event-driven-inventory-api](https://github.com/Lanrey/event-driven-inventory-api) | Async inventory tracking — Django + Celery task pipeline with Redis broker, domain events, worker-based side-effect isolation |
+| [saas-platform-control-plane](https://github.com/Lanrey/saas-platform-control-plane) | Multi-tenant control plane for SaaS products: org and project management, scoped API keys with rotation, OAuth 2.0 Authorization Code and Client Credentials flows, RS256 JWTs. NestJS on a Fastify adapter, direct SQL migrations, cursor-based pagination. |
+| [api-connector-sync-pipeline](https://github.com/Lanrey/api-connector-sync-pipeline) | Python pipeline that introspects third-party APIs, configures auth automatically, and syncs records reliably without manual connector wiring. Built for teams that ship integrations fast. |
+| [realtime-incident-management-api](https://github.com/Lanrey/realtime-incident-management-api) | Incident management API that pushes live state updates to clients over Server-Sent Events. TypeScript, clean domain model, no polling, no WebSocket overhead. |
+| [realtime-compliance-aggregator](https://github.com/Lanrey/realtime-compliance-aggregator) | Elixir service that ingests compliance rules from multiple sources, detects regulatory conflicts in real time, and emits structured change events downstream. Built around OTP supervision trees. |
+| [event-driven-inventory-api](https://github.com/Lanrey/event-driven-inventory-api) | Django inventory service backed by a Celery task pipeline: domain events trigger async workers through Redis, keeping side effects isolated and the request path fast. |
 
 &nbsp;
 
