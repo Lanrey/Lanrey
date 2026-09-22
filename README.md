@@ -31,6 +31,14 @@ Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to seni
 
 &nbsp;
 
+### Speaking
+
+<img src="europython-talk.jpg" alt="Speaking at EuroPython Kraków 2026" width="600"/>
+
+*EuroPython 2026, Kraków*
+
+&nbsp;
+
 ### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olusola-akinsulere/)
