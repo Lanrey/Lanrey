@@ -1,8 +1,8 @@
 ## Olusola Akinsulere
 
-Staff & Applied AI Engineer based in Helsinki, Finland. I build the infrastructure layer that SaaS products run on: multi-tenant control planes, event-driven backends, and data pipelines that connect systems at scale.
+Senior & Applied AI Engineer based in Helsinki, Finland. I build the infrastructure layer that SaaS products run on: multi-tenant control planes, event-driven backends, and data pipelines that connect systems at scale.
 
-Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to **Staff Engineer**, **Applied AI Engineer**, and **Engineering Lead** roles
+Currently at **[Retailloop](https://retailloop.co)** &nbsp;·&nbsp; Open to **Senior Engineer**, **Applied AI Engineer**, roles
 
 &nbsp;
 
